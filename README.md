@@ -2,6 +2,11 @@
 
 A Rust-based client/server application designed to streamline interactions with various large language models (LLMs) through a unified, context-aware framework.
 
+### Notice
+
+Large portions of this project were written by an LLM.
+This project was used to learn the limits of LLM coding agents, and how they could work into my daily workflow.
+
 ## Overview
 
 The **mcp-server** acts as a proxy or gateway, while the **mcp-client** provides a command-line interface to send requests to the server. This project demonstrates how to build modular, networked applications in Rust and provides a framework for composing and managing interactions with various AI models.
